@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc55efc6-0c4c-41f1-9850-0c7b3ccd4180" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pyparrot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboardJoystick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/MyDroneVisionGUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyparrot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensor_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pyparrot_dev$droneMapGUI.coverage" NAME="droneMapGUI Coverage Results" MODIFIED="1562538630817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyparrot-git/coursework/ai_class" />
+    <SUITE FILE_PATH="coverage/pyparrot_dev$demoMamboVisionGUI.coverage" NAME="demoMamboVisionGUI Coverage Results" MODIFIED="1562877941793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyparrot-git/examples" />
+    <SUITE FILE_PATH="coverage/pyparrot_dev$demoMamboGroundcam.coverage" NAME="demoMamboGroundcam Coverage Results" MODIFIED="1562595068031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyparrot-git/examples" />
+    <SUITE FILE_PATH="coverage/pyparrot_dev$demoMamboVisionGUITwoWindows.coverage" NAME="demoMamboVisionGUITwoWindows Coverage Results" MODIFIED="1562539500617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyparrot-git/examples" />
+    <SUITE FILE_PATH="coverage/pyparrot_dev$demoMamboTricks.coverage" NAME="demoMamboTricks Coverage Results" MODIFIED="1562875887138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyparrot-git/examples" />
+    <SUITE FILE_PATH="coverage/pyparrot_dev$sensor_read.coverage" NAME="sensor_read Coverage Results" MODIFIED="1563022339504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyparrot_dev$keyboardJoystick.coverage" NAME="keyboardJoystick Coverage Results" MODIFIED="1562884625562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyparrot_dev$DroneVisionGUI.coverage" NAME="DroneVisionGUI Coverage Results" MODIFIED="1562538905715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyparrot-git/pyparrot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keyboardJoystick.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="32" column="32" selection-start-line="32" selection-end-line="33" />
+              <folding>
+                <element signature="e#80#116#0" expanded="true" />
+                <element signature="e#1453#2949#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sensor_read.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-end-line="35" />
+              <folding>
+                <element signature="e#1#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/scripts/findMinidrone.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/Minidrone.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-555">
+              <caret line="227" selection-start-line="227" selection-end-line="227" />
+              <folding>
+                <element signature="e#10436#28402#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/bleConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/wifiConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/MyDroneVisionGUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-480">
+              <caret line="406" selection-start-line="406" selection-end-line="406" />
+              <folding>
+                <element signature="e#850#860#0" expanded="true" />
+                <element signature="e#1302#5859#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vision</find>
+      <find>vision_interval</find>
+      <find>video_take_snapshot</find>
+      <find>vlc</find>
+      <find>Player</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pyparrot-git" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" />
+        <option value="$PROJECT_DIR$/pyparrot-git/examples/demoMamboVisionGUITwoWindows.py" />
+        <option value="$PROJECT_DIR$/pyparrot-git/examples/demoMamboVisionGUI.py" />
+        <option value="$PROJECT_DIR$/pyparrot-git/examples/demoMamboTricks.py" />
+        <option value="$PROJECT_DIR$/pyparrot-git/pyparrot/DroneVisionGUI.py" />
+        <option value="$PROJECT_DIR$/files/MyDroneVisionGUI.py" />
+        <option value="$PROJECT_DIR$/keyboardJoystick.py" />
+        <option value="$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/bleConnection.py" />
+        <option value="$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/wifiConnection.py" />
+        <option value="$PROJECT_DIR$/sensor_read.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
+    <option name="y" value="23" />
+    <option name="width" value="1574" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
+              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
+              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/anaconda3/bin/python" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sensor_read">
+    <configuration name="demoMamboGroundcam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyparrot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyparrot-git/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyparrot-git/examples/demoMamboGroundcam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demoMamboTricks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyparrot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyparrot-git/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyparrot-git/examples/demoMamboTricks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demoMamboVisionGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyparrot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyparrot-git/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyparrot-git/examples/demoMamboVisionGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="keyboardJoystick" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyparrot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keyboardJoystick.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sensor_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyparrot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensor_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sensor_read" />
+        <item itemvalue="Python.keyboardJoystick" />
+        <item itemvalue="Python.demoMamboVisionGUI" />
+        <item itemvalue="Python.demoMamboTricks" />
+        <item itemvalue="Python.demoMamboGroundcam" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc55efc6-0c4c-41f1-9850-0c7b3ccd4180" name="Default Changelist" comment="" />
+      <created>1562517034074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562517034074</updated>
+      <workItem from="1562517037008" duration="2411000" />
+      <workItem from="1562519730140" duration="4067000" />
+      <workItem from="1562875430345" duration="11362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17840000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="43" y="23" width="1574" height="1080" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3126632" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49804178" weight="0.3299595" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8381201" weight="0.47267208" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.39979756" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49934727" weight="0.3299595" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50195825" side_tool="true" weight="0.3299595" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49477807" visible="true" weight="0.3299595" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49804178" weight="0.3299595" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pyparrot/examples/demoMamboGroundcam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/examples/demoMamboDirectFlight.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="31" column="53" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="53" />
+          <folding>
+            <element signature="e#159#195#0" expanded="true" />
+            <element signature="e#922#2497#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:07.000442.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:07.200587.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.855168.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.773066.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.704421.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.603489.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.558673.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:26:57.059384.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/utils/vlc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1190">
+          <folding>
+            <element signature="e#14632#17110#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:46.762375_cv2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:46.891413_cv2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.044928_cv2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.370565_cv2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.294423_cv2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.235570_cv2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.159842_cv2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="397" column="65" selection-start-line="397" selection-start-column="14" selection-end-line="397" selection-end-column="65" />
+          <folding>
+            <element signature="e#850#860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/MyDroneVisionGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="406" selection-start-line="406" selection-end-line="406" />
+          <folding>
+            <element signature="e#850#860#0" expanded="true" />
+            <element signature="e#1302#5859#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pyparrot-dev/lib/python3.7/site-packages/pyparrot/Minidrone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="352" column="16" selection-start-line="352" selection-start-column="8" selection-end-line="352" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#316#1" />
+            <element signature="e#400#483#0" />
+            <element signature="e#841#931#0" />
+            <element signature="e#944#1020#0" />
+            <element signature="e#1050#1112#1" />
+            <element signature="e#1147#2035#0" />
+            <element signature="e#2103#2429#0" />
+            <element signature="e#2103#2334#1" />
+            <element signature="e#2487#5118#0" />
+            <element signature="e#2487#2761#1" />
+            <element signature="e#2770#2805#0" />
+            <element signature="e#2867#2913#0" />
+            <element signature="e#2970#3214#0" />
+            <element signature="e#3132#3214#0" />
+            <element signature="e#4822#4939#0" />
+            <element signature="e#5171#5704#0" />
+            <element signature="e#5171#5508#1" />
+            <element signature="e#5767#6423#0" />
+            <element signature="e#5767#5977#1" />
+            <element signature="e#6456#7407#0" />
+            <element signature="e#6456#6563#1" />
+            <element signature="e#6988#7173#0" />
+            <element signature="e#7437#10412#0" />
+            <element signature="e#7465#8583#0" />
+            <element signature="e#7465#7572#1" />
+            <element signature="e#7660#7717#0" />
+            <element signature="e#8228#8300#0" />
+            <element signature="e#8615#8670#0" />
+            <element signature="e#8724#9101#0" />
+            <element signature="e#8724#8897#1" />
+            <element signature="e#8981#9101#0" />
+            <element signature="e#9168#10175#0" />
+            <element signature="e#9168#9636#1" />
+            <element signature="e#9840#10098#0" />
+            <element signature="e#9987#10048#0" />
+            <element signature="e#10142#10175#0" />
+            <element signature="e#10223#10412#0" />
+            <element signature="e#10223#10339#1" />
+            <element signature="e#10492#11913#0" />
+            <element signature="e#10492#11054#1" />
+            <element signature="e#11184#11329#0" />
+            <element signature="e#11356#11660#0" />
+            <element signature="e#11478#11660#0" />
+            <element signature="e#11980#12315#0" />
+            <element signature="e#11980#12251#1" />
+            <element signature="e#12409#12631#1" />
+            <element signature="e#12756#13331#0" />
+            <element signature="e#12799#13331#0" />
+            <element signature="e#12929#13030#0" />
+            <element signature="e#13073#13331#0" />
+            <element signature="e#13469#14023#0" />
+            <element signature="e#13469#13783#1" />
+            <element signature="e#14057#14504#0" />
+            <element signature="e#14057#14322#1" />
+            <element signature="e#14552#15367#0" />
+            <element signature="e#14552#14728#1" />
+            <element signature="e#14917#15055#0" />
+            <element signature="e#15266#15367#0" />
+            <element signature="e#15397#15841#0" />
+            <element signature="e#15397#15659#1" />
+            <element signature="e#15876#16108#0" />
+            <element signature="e#15876#15978#1" />
+            <element signature="e#16152#16810#0" />
+            <element signature="e#16152#16254#1" />
+            <element signature="e#16414#16599#0" />
+            <element signature="e#16709#16810#0" />
+            <element signature="e#16857#17124#0" />
+            <element signature="e#16857#17073#1" />
+            <element signature="e#17155#17687#0" />
+            <element signature="e#17155#17474#1" />
+            <element signature="e#17728#18734#0" />
+            <element signature="e#17728#18052#1" />
+            <element signature="e#18181#18358#0" />
+            <element signature="e#18592#18613#0" />
+            <element signature="e#18781#19722#0" />
+            <element signature="e#18781#19279#1" />
+            <element signature="e#19351#19419#0" />
+            <element signature="e#19463#19546#0" />
+            <element signature="e#19768#20123#0" />
+            <element signature="e#19768#19896#1" />
+            <element signature="e#20162#21044#0" />
+            <element signature="e#20162#20562#1" />
+            <element signature="e#20601#20856#0" />
+            <element signature="e#20751#20856#0" />
+            <element signature="e#21090#21553#0" />
+            <element signature="e#21090#21374#1" />
+            <element signature="e#21614#21987#0" />
+            <element signature="e#21614#21841#1" />
+            <element signature="e#22075#24009#0" />
+            <element signature="e#22075#23277#1" />
+            <element signature="e#24046#24751#0" />
+            <element signature="e#24046#24279#1" />
+            <element signature="e#24587#24608#0" />
+            <element signature="e#24787#25496#0" />
+            <element signature="e#24787#25021#1" />
+            <element signature="e#25332#25353#0" />
+            <element signature="e#25552#26230#0" />
+            <element signature="e#25552#25807#1" />
+            <element signature="e#25845#25943#0" />
+            <element signature="e#26275#26903#0" />
+            <element signature="e#26275#26484#1" />
+            <element signature="e#26522#26622#0" />
+            <element signature="e#26938#27382#0" />
+            <element signature="e#26938#27205#1" />
+            <element signature="e#27432#28084#0" />
+            <element signature="e#27432#27627#1" />
+            <element signature="e#27835#27893#0" />
+            <element signature="e#28119#28402#0" />
+            <element signature="e#28119#28226#1" />
+            <element signature="e#28434#29498#0" />
+            <element signature="e#28464#28736#0" />
+            <element signature="e#28464#28618#1" />
+            <element signature="e#28771#29498#0" />
+            <element signature="e#28771#29027#1" />
+            <element signature="e#29335#29356#0" />
+            <element signature="e#29529#31028#0" />
+            <element signature="e#29559#29756#0" />
+            <element signature="e#29559#29713#1" />
+            <element signature="e#29804#30441#0" />
+            <element signature="e#29804#29889#1" />
+            <element signature="e#29980#30161#0" />
+            <element signature="e#30493#31028#0" />
+            <element signature="e#30493#30575#1" />
+            <element signature="e#30646#30807#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/bleConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/wifiConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboardJoystick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="32" selection-start-line="32" selection-end-line="33" />
+          <folding>
+            <element signature="e#80#116#0" expanded="true" />
+            <element signature="e#1453#2949#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/Minidrone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
+          <folding>
+            <element signature="e#10436#28402#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensor_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-end-line="35" />
+          <folding>
+            <element signature="e#1#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/scripts/findMinidrone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
