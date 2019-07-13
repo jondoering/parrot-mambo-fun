@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc55efc6-0c4c-41f1-9850-0c7b3ccd4180" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pyparrot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboardJoystick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/MyDroneVisionGUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyparrot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sensor_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyparrot" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyparrot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" afterDir="false" />
@@ -64,11 +54,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/scripts/findMinidrone.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyparrot/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyparrot/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -141,7 +162,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pyparrot-git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -156,6 +177,8 @@
         <option value="$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/bleConnection.py" />
         <option value="$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/wifiConnection.py" />
         <option value="$PROJECT_DIR$/sensor_read.py" />
+        <option value="$PROJECT_DIR$/pyparrot/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -178,24 +201,6 @@
             <path>
               <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
-              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
-              <item name="pyparrot" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,17 +368,18 @@
       <updated>1562517034074</updated>
       <workItem from="1562517037008" duration="2411000" />
       <workItem from="1562519730140" duration="4067000" />
-      <workItem from="1562875430345" duration="11362000" />
+      <workItem from="1562875430345" duration="11607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17840000" />
+    <option name="totallyTimeSpent" value="18085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1574" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3126632" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3126632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -387,7 +393,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49934727" weight="0.3299595" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50195825" side_tool="true" weight="0.3299595" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49477807" visible="true" weight="0.3299595" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49477807" visible="true" weight="0.3299595" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49804178" weight="0.3299595" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -698,6 +704,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
