@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc55efc6-0c4c-41f1-9850-0c7b3ccd4180" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyboardJoystick.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/keyboardJoystick.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/MyDroneVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymodule/MyDroneVisionGUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymodule/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Untitled.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sensor_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/sensor_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,108 +31,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1348">
+              <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/keyboardJoystick.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="32" column="32" selection-start-line="32" selection-end-line="33" />
+            <state relative-caret-position="246">
+              <caret line="38" column="16" selection-start-line="38" selection-end-line="39" />
               <folding>
                 <element signature="e#80#116#0" expanded="true" />
-                <element signature="e#1453#2949#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/sensor_read.py">
+        <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/minidrone.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-end-line="35" />
-              <folding>
-                <element signature="e#1#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/scripts/findMinidrone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyparrot/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyparrot/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="238">
+              <caret line="867" column="48" selection-start-line="867" selection-start-column="48" selection-end-line="867" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/Minidrone.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-555">
-              <caret line="227" selection-start-line="227" selection-end-line="227" />
+            <state relative-caret-position="265">
+              <caret line="166" column="34" selection-start-line="166" selection-end-line="167" />
               <folding>
                 <element signature="e#10436#28402#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/bleConnection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#0#72#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/wifiConnection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -156,9 +88,13 @@
       <find>video_take_snapshot</find>
       <find>vlc</find>
       <find>Player</find>
+      <find />
+      <find>Could not find sensor in list</find>
+      <find>quat</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -180,6 +116,7 @@
         <option value="$PROJECT_DIR$/pyparrot/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py" />
       </list>
     </option>
   </component>
@@ -202,6 +139,11 @@
             <path>
               <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyparrot-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyparrot-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,12 +312,12 @@
       <updated>1562517034074</updated>
       <workItem from="1562517037008" duration="2411000" />
       <workItem from="1562519730140" duration="4067000" />
-      <workItem from="1562875430345" duration="11703000" />
+      <workItem from="1562875430345" duration="15064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18181000" />
+    <option name="totallyTimeSpent" value="21542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1574" height="1080" extended-state="0" />
@@ -671,48 +613,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/keyboardJoystick.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" column="32" selection-start-line="32" selection-end-line="33" />
-          <folding>
-            <element signature="e#80#116#0" expanded="true" />
-            <element signature="e#1453#2949#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/Minidrone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-555">
-          <caret line="227" selection-start-line="227" selection-end-line="227" />
-          <folding>
-            <element signature="e#10436#28402#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/sensor_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-end-line="35" />
-          <folding>
-            <element signature="e#1#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/scripts/findMinidrone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyparrot/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="577">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/scripts/findMinidrone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sensor_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#1#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -724,20 +655,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/networking/wifiConnection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+        <state relative-caret-position="-6479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneCommandParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-403">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/followme.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1348">
+          <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/keyboardJoystick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="38" column="16" selection-start-line="38" selection-end-line="39" />
+          <folding>
+            <element signature="e#80#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/minidrone.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="867" column="48" selection-start-line="867" selection-start-column="48" selection-end-line="867" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/Minidrone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="166" column="34" selection-start-line="166" selection-end-line="167" />
+          <folding>
+            <element signature="e#10436#28402#0" />
+          </folding>
         </state>
       </provider>
     </entry>
