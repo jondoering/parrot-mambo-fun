@@ -7,7 +7,7 @@ Author: Amy McGovern
 
 
 from pyparrot.Minidrone import Mambo
-from module.MyDroneVisionGUI import DroneVisionGUI
+from mymodule.MyDroneVisionGUI import DroneVisionGUI
 
 import time
 

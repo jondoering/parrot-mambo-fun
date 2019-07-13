@@ -1,6 +1,6 @@
 
 from pyparrot.Minidrone import Mambo
-from module.MyDroneVisionGUI import DroneVisionGUI
+from mymodule.MyDroneVisionGUI import DroneVisionGUI
 import json
 import time
 

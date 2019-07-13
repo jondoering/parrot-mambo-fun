@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc55efc6-0c4c-41f1-9850-0c7b3ccd4180" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboardJoystick.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/keyboardJoystick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/MyDroneVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymodule/MyDroneVisionGUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymodule/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboVisionGUITwoWindows.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sensor_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/sensor_read.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +34,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keyboardJoystick.py">
+        <entry file="file://$PROJECT_DIR$/scripts/keyboardJoystick.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="32" column="32" selection-start-line="32" selection-end-line="33" />
@@ -43,7 +47,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sensor_read.py">
+        <entry file="file://$PROJECT_DIR$/scripts/sensor_read.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" lean-forward="true" selection-end-line="35" />
@@ -82,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -90,6 +94,15 @@
                 <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -123,19 +136,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="337">
               <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/MyDroneVisionGUI.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480">
-              <caret line="406" selection-start-line="406" selection-end-line="406" />
-              <folding>
-                <element signature="e#850#860#0" expanded="true" />
-                <element signature="e#1302#5859#0" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,6 +179,7 @@
         <option value="$PROJECT_DIR$/sensor_read.py" />
         <option value="$PROJECT_DIR$/pyparrot/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -217,6 +218,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/files" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -315,7 +317,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keyboardJoystick.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/keyboardJoystick.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,7 +339,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensor_read.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/sensor_read.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,12 +370,12 @@
       <updated>1562517034074</updated>
       <workItem from="1562517037008" duration="2411000" />
       <workItem from="1562519730140" duration="4067000" />
-      <workItem from="1562875430345" duration="11607000" />
+      <workItem from="1562875430345" duration="11703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18085000" />
+    <option name="totallyTimeSpent" value="18181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1574" height="1080" extended-state="0" />
@@ -441,7 +443,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/__init__.py">
+    <entry file="file://$PROJECT_DIR$/mymodule/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:07.000442.jpg">
@@ -508,7 +510,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/MyDroneVisionGUI.py">
+    <entry file="file://$PROJECT_DIR$/mymodule/MyDroneVisionGUI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-480">
           <caret line="406" selection-start-line="406" selection-end-line="406" />
@@ -669,7 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keyboardJoystick.py">
+    <entry file="file://$PROJECT_DIR$/scripts/keyboardJoystick.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="32" column="32" selection-start-line="32" selection-end-line="33" />
@@ -690,7 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sensor_read.py">
+    <entry file="file://$PROJECT_DIR$/scripts/sensor_read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-end-line="35" />
@@ -729,6 +731,13 @@
             <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
         </state>
       </provider>
     </entry>
