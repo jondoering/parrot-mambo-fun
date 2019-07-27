@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc55efc6-0c4c-41f1-9850-0c7b3ccd4180" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyparrot/examples/demoMamboTricks.py" afterDir="false" />
@@ -31,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1348">
+            <state relative-caret-position="2025">
               <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
             </state>
           </provider>
@@ -40,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/keyboardJoystick.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="405">
               <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
               <folding>
                 <element signature="e#80#116#0" expanded="true" />
@@ -52,20 +54,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/minidrone.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="13005">
               <caret line="867" column="48" selection-start-line="867" selection-start-column="48" selection-end-line="867" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/Minidrone.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="175" column="88" lean-forward="true" selection-start-line="174" selection-start-column="8" selection-end-line="175" selection-end-column="88" />
+              <caret line="175" column="88" selection-start-line="174" selection-start-column="8" selection-end-line="175" selection-end-column="88" />
               <folding>
                 <element signature="e#10436#28402#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -112,13 +126,13 @@
         <option value="$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/wifiConnection.py" />
         <option value="$PROJECT_DIR$/sensor_read.py" />
         <option value="$PROJECT_DIR$/pyparrot/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="43" />
     <option name="y" value="23" />
     <option name="width" value="1574" />
@@ -130,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,6 +165,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,17 +329,19 @@
       <updated>1562517034074</updated>
       <workItem from="1562517037008" duration="2411000" />
       <workItem from="1562519730140" duration="4067000" />
-      <workItem from="1562875430345" duration="15982000" />
+      <workItem from="1562875430345" duration="16388000" />
+      <workItem from="1564244282459" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22460000" />
+    <option name="totallyTimeSpent" value="22925000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="23" width="1574" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3126632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25825346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -339,7 +355,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49934727" weight="0.3299595" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50195825" side_tool="true" weight="0.3299595" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49477807" visible="true" weight="0.3299595" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49477807" visible="true" weight="0.28849557" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49804178" weight="0.3299595" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -390,30 +406,14 @@
     <entry file="file://$PROJECT_DIR$/mymodule/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:07.000442.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:07.200587.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.855168.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.773066.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.704421.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.603489.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.558673.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:26:57.059384.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:07.000442.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:07.200587.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.855168.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.773066.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.704421.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.603489.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:19:06.558673.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:26:57.059384.jpg" />
     <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/utils/vlc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1190">
@@ -423,27 +423,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:46.762375_cv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:46.891413_cv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.044928_cv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.370565_cv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.294423_cv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.235570_cv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.159842_cv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:46.762375_cv2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:46.891413_cv2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.044928_cv2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.370565_cv2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.294423_cv2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.235570_cv2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/visionStream_2019-07-11 22:56:47.159842_cv2.jpg" />
     <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/DroneVisionGUI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -465,139 +451,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/pyparrot-dev/lib/python3.7/site-packages/pyparrot/Minidrone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="352" column="16" selection-start-line="352" selection-start-column="8" selection-end-line="352" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#316#1" />
-            <element signature="e#400#483#0" />
-            <element signature="e#841#931#0" />
-            <element signature="e#944#1020#0" />
-            <element signature="e#1050#1112#1" />
-            <element signature="e#1147#2035#0" />
-            <element signature="e#2103#2429#0" />
-            <element signature="e#2103#2334#1" />
-            <element signature="e#2487#5118#0" />
-            <element signature="e#2487#2761#1" />
-            <element signature="e#2770#2805#0" />
-            <element signature="e#2867#2913#0" />
-            <element signature="e#2970#3214#0" />
-            <element signature="e#3132#3214#0" />
-            <element signature="e#4822#4939#0" />
-            <element signature="e#5171#5704#0" />
-            <element signature="e#5171#5508#1" />
-            <element signature="e#5767#6423#0" />
-            <element signature="e#5767#5977#1" />
-            <element signature="e#6456#7407#0" />
-            <element signature="e#6456#6563#1" />
-            <element signature="e#6988#7173#0" />
-            <element signature="e#7437#10412#0" />
-            <element signature="e#7465#8583#0" />
-            <element signature="e#7465#7572#1" />
-            <element signature="e#7660#7717#0" />
-            <element signature="e#8228#8300#0" />
-            <element signature="e#8615#8670#0" />
-            <element signature="e#8724#9101#0" />
-            <element signature="e#8724#8897#1" />
-            <element signature="e#8981#9101#0" />
-            <element signature="e#9168#10175#0" />
-            <element signature="e#9168#9636#1" />
-            <element signature="e#9840#10098#0" />
-            <element signature="e#9987#10048#0" />
-            <element signature="e#10142#10175#0" />
-            <element signature="e#10223#10412#0" />
-            <element signature="e#10223#10339#1" />
-            <element signature="e#10492#11913#0" />
-            <element signature="e#10492#11054#1" />
-            <element signature="e#11184#11329#0" />
-            <element signature="e#11356#11660#0" />
-            <element signature="e#11478#11660#0" />
-            <element signature="e#11980#12315#0" />
-            <element signature="e#11980#12251#1" />
-            <element signature="e#12409#12631#1" />
-            <element signature="e#12756#13331#0" />
-            <element signature="e#12799#13331#0" />
-            <element signature="e#12929#13030#0" />
-            <element signature="e#13073#13331#0" />
-            <element signature="e#13469#14023#0" />
-            <element signature="e#13469#13783#1" />
-            <element signature="e#14057#14504#0" />
-            <element signature="e#14057#14322#1" />
-            <element signature="e#14552#15367#0" />
-            <element signature="e#14552#14728#1" />
-            <element signature="e#14917#15055#0" />
-            <element signature="e#15266#15367#0" />
-            <element signature="e#15397#15841#0" />
-            <element signature="e#15397#15659#1" />
-            <element signature="e#15876#16108#0" />
-            <element signature="e#15876#15978#1" />
-            <element signature="e#16152#16810#0" />
-            <element signature="e#16152#16254#1" />
-            <element signature="e#16414#16599#0" />
-            <element signature="e#16709#16810#0" />
-            <element signature="e#16857#17124#0" />
-            <element signature="e#16857#17073#1" />
-            <element signature="e#17155#17687#0" />
-            <element signature="e#17155#17474#1" />
-            <element signature="e#17728#18734#0" />
-            <element signature="e#17728#18052#1" />
-            <element signature="e#18181#18358#0" />
-            <element signature="e#18592#18613#0" />
-            <element signature="e#18781#19722#0" />
-            <element signature="e#18781#19279#1" />
-            <element signature="e#19351#19419#0" />
-            <element signature="e#19463#19546#0" />
-            <element signature="e#19768#20123#0" />
-            <element signature="e#19768#19896#1" />
-            <element signature="e#20162#21044#0" />
-            <element signature="e#20162#20562#1" />
-            <element signature="e#20601#20856#0" />
-            <element signature="e#20751#20856#0" />
-            <element signature="e#21090#21553#0" />
-            <element signature="e#21090#21374#1" />
-            <element signature="e#21614#21987#0" />
-            <element signature="e#21614#21841#1" />
-            <element signature="e#22075#24009#0" />
-            <element signature="e#22075#23277#1" />
-            <element signature="e#24046#24751#0" />
-            <element signature="e#24046#24279#1" />
-            <element signature="e#24587#24608#0" />
-            <element signature="e#24787#25496#0" />
-            <element signature="e#24787#25021#1" />
-            <element signature="e#25332#25353#0" />
-            <element signature="e#25552#26230#0" />
-            <element signature="e#25552#25807#1" />
-            <element signature="e#25845#25943#0" />
-            <element signature="e#26275#26903#0" />
-            <element signature="e#26275#26484#1" />
-            <element signature="e#26522#26622#0" />
-            <element signature="e#26938#27382#0" />
-            <element signature="e#26938#27205#1" />
-            <element signature="e#27432#28084#0" />
-            <element signature="e#27432#27627#1" />
-            <element signature="e#27835#27893#0" />
-            <element signature="e#28119#28402#0" />
-            <element signature="e#28119#28226#1" />
-            <element signature="e#28434#29498#0" />
-            <element signature="e#28464#28736#0" />
-            <element signature="e#28464#28618#1" />
-            <element signature="e#28771#29498#0" />
-            <element signature="e#28771#29027#1" />
-            <element signature="e#29335#29356#0" />
-            <element signature="e#29529#31028#0" />
-            <element signature="e#29559#29756#0" />
-            <element signature="e#29559#29713#1" />
-            <element signature="e#29804#30441#0" />
-            <element signature="e#29804#29889#1" />
-            <element signature="e#29980#30161#0" />
-            <element signature="e#30493#31028#0" />
-            <element signature="e#30493#30575#1" />
-            <element signature="e#30646#30807#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pyparrot-dev/lib/python3.7/site-packages/pyparrot/Minidrone.py" />
     <entry file="file://$PROJECT_DIR$/pyparrot/build/lib/pyparrot/networking/bleConnection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -612,16 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -683,23 +527,16 @@
         <state relative-caret-position="-4780" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/minidrone.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="867" column="48" selection-start-line="867" selection-start-column="48" selection-end-line="867" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/DroneSensorParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1348">
+        <state relative-caret-position="2025">
           <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/keyboardJoystick.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="405">
           <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding>
             <element signature="e#80#116#0" expanded="true" />
@@ -707,13 +544,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/commandsandsensors/minidrone.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13005">
+          <caret line="867" column="48" selection-start-line="867" selection-start-column="48" selection-end-line="867" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pyparrot/pyparrot/Minidrone.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="175" column="88" lean-forward="true" selection-start-line="174" selection-start-column="8" selection-end-line="175" selection-end-column="88" />
+          <caret line="175" column="88" selection-start-line="174" selection-start-column="8" selection-end-line="175" selection-end-column="88" />
           <folding>
             <element signature="e#10436#28402#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
